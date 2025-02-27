@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Calculadora");
+            Console.WriteLine("escolha a operação: +, -, *, /");
+            Console.ReadLine();
         }
     }
 }
